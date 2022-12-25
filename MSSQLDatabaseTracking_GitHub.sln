@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MSSQLDatabaseTracking_GitHub", "MSSQLDatabaseTracking_GitHub\MSSQLDatabaseTracking_GitHub.sqlproj", "{7CB117F0-0DAD-4C76-8593-B838133FB3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CB117F0-0DAD-4C76-8593-B838133FB3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB117F0-0DAD-4C76-8593-B838133FB3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB117F0-0DAD-4C76-8593-B838133FB3DD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7CB117F0-0DAD-4C76-8593-B838133FB3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB117F0-0DAD-4C76-8593-B838133FB3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB117F0-0DAD-4C76-8593-B838133FB3DD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D246CA9-87B3-40A5-B5AA-2F14DDAFC06B}
+	EndGlobalSection
+EndGlobal
