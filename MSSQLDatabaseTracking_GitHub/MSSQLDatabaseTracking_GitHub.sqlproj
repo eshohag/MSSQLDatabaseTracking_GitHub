@@ -60,10 +60,14 @@
     <Folder Include="dbo\Tables\" />
     <Folder Include="dbo\Views\" />
     <Folder Include="dbo\Stored Procedures\" />
+    <Folder Include="Snapshots" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\PersonalInfo.sql" />
     <Build Include="dbo\Views\GetPersonalInfoView.sql" />
     <Build Include="dbo\Stored Procedures\GetPersonalInfo.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Snapshots\VCS_Database_20221226_21-30-15.dacpac" />
   </ItemGroup>
 </Project>
