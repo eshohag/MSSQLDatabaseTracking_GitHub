@@ -3,9 +3,9 @@
 -- Create date: <Create Date,,>
 -- Description:	<Description,,>
 -- =============================================
-CREATE PROCEDURE GetPersonalInfo
+CREATE PROCEDURE [dbo].[GetPersonalInfo]
 AS
 BEGIN
 	SET NOCOUNT ON;
-	SELECT [Id],[Name],[Email] FROM [VCS_Database].[dbo].[PersonalInfo]
+	SELECT * FROM [dbo].[PersonalInfo]
 END
